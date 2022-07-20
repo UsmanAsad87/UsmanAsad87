@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ProgrammingForLife
-- 👀 I’m interested in AndroidDevelopment with Java, Machine Learning, Computer Vision and AI
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ANN,CNN,RNN
+- 👀 I’m interested in Flutter App Development, Machine Learning, Computer Vision and AI
+- 🌱 I’m currently Flutter Developer.
+- 💞️ I’m looking to collaborate on with you on your project.
 - 📫 How to reach me usmanasad0324@gmail.com
 
 <!---
