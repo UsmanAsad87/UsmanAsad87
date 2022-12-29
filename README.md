@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Flutter,dart and Computer vison**
 
-- 📫 How to reach me **usmanasad@gmail.com**
+- 📫 How to reach me **usmanasad0324@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
