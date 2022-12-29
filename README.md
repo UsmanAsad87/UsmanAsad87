@@ -26,7 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usmanasad87&show_icons=true&locale=en" alt="usmanasad87" /></p>
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usmanasad87&show_icons=true&theme=transparent)
 
 <!---
 ProgrammingForLife/ProgrammingForLife is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
