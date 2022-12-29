@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Usman Asad</h1>
-<h3 align="center">A passionate Full stack Mobile developer From Pakistan</h3>
+<h3 align="center">A passionate Full Stack Mobile Developer and Machine Learning Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usmanasad87" alt="usmanasad87" /></a> </p>
 
 - 🔭 I’m currently working on **Face recognition and Ecommerce App**
 
