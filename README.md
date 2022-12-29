@@ -26,7 +26,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usmanasad87&show_icons=true&theme=transparent)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanasad87&layout=compact)](https://github.com/usmanasad87/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanasad87&layout=compact&theme=transparent)](https://github.com/usmanasad87/github-readme-stats)
 
 
 <!---
