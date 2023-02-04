@@ -13,8 +13,7 @@
 - 📫 How to reach me **usmanasad0324@gmail.com**
 
 
-<br/>
-<br/>
+
 
 <p align="left">
 ![profile count](https://komarev.com/ghpvc/?username=UsmanAsad87&color=red)&nbsp;
