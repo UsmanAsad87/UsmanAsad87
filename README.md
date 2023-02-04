@@ -12,6 +12,12 @@
 
 - 📫 How to reach me **usmanasad0324@gmail.com**
 
+
+<br/>
+<br/>
+![profile count](https://komarev.com/ghpvc/?username=UsmanAsad87&color=red)&nbsp;
+[![GitHub UsmanAsad87](https://img.shields.io/github/followers/UsmanAsad87?label=follow&style=social)](https://github.com/UsmanAsad87)&nbsp;
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/usman-asad-0204441b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usman-asad-0204441b8" height="30" width="40" /></a>
