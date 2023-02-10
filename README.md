@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning**
 
-- 💬 Ask me about **Flutter,dart and Computer vison**
+- 💬 Ask me about **Flutter,dart,NLP and Computer vison**
 
 - 📫 How to reach me **usmanasad0324@gmail.com**
 
@@ -34,9 +34,31 @@
   <br/>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usmanasad87&show_icons=true&theme=transparent)
+
+<!---
+![usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=usmanasad87&show_icons=true&theme=transparent)
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanasad87&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanasad87&layout=compact) --->
+
+### My Stats:
+
+
+
+<p align="center">
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=usmanasad87&theme=react&background=0d1117&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true" width="45%" />
+<br/>
+<img height="180em"src="https://github-readme-stats.vercel.app/api?username=usmanasad87&show_icons=true&theme=github_dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&&count_private=true&include_all_commits=true" />
+	
+<img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanasad87&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide=javascript,css&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+ <br/>
+
+<!---
+<img height="220em" src="https://github-readme-stats.vercel.app/api/wakatime?username=usmanasad87&theme=github_dark&hide_border=truelayout=compact&langs_count=8" width="45%" />  --->
+</p>
+
+
+
 
 
 <br/>
