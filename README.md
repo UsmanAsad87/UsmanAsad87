@@ -1,16 +1,20 @@
 <h1 align="center">Hi 👋, I'm Usman Asad</h1>
-<h3 align="center">A passionate Full Stack Mobile Developer and Machine Learning Enthusiast</h3>
+<h3 align="center">A Passionate Full Stack Developer Specializing in Mobile Development and Machine Learning</h3>
 
+- 🔭 I’m currently working on **.NET Web API, WPF, Flutter, Face Recognition, and Ecommerce Solutions**
 
-- 🔭 I’m currently working on **Face recognition and Ecommerce App**
+- 🌱 I’m actively expanding my expertise in **TensorFlow, Flutter, PyTorch, and Flask**
 
-- 🌱 I’m currently learning **Tesnsorflow,Flutter,Pytorch,Flask**
+- 💼 My recent projects include:
+  - **.NET Web API Development:** Crafting scalable and efficient APIs for backend services, focusing on data integration and complex business logic in industries like logistics and e-commerce.
+  - **WPF Application Development:** Building sophisticated desktop applications with a strong emphasis on performance, usability, and seamless integration with backend services.
+  - **Flutter App Development:** Developing cross-platform mobile applications that deliver high-quality user experiences across different devices.
 
-- 👯 I’m looking to collaborate on **Machine Learning**
+- 👯 I’m looking to collaborate on **Machine Learning** projects, particularly those involving **Computer Vision, Natural Language Processing (NLP),** and **.NET-based** solutions.
 
-- 💬 Ask me about **Flutter,dart,NLP and Computer vison**
+- 💬 Feel free to reach out if you want to discuss **Flutter, Dart, .NET Web API, WPF, NLP, Computer Vision,** or **Machine Learning**.
 
-- 📫 How to reach me **usmanasad0324@gmail.com**
+- 📫 How to reach me: **usmanasad0324@gmail.com**
 
 
 
