@@ -46,10 +46,9 @@
 
 ### My Stats:
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=usmanasad87&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
 <p align="center">
-  
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=usmanasad87&theme=react&background=0d1117&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true" width="45%" />
 <br/>
 <img height="180em"src="https://github-readme-stats.vercel.app/api?username=usmanasad87&show_icons=true&theme=github_dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&&count_private=true&include_all_commits=true&rank_icon=github" />
