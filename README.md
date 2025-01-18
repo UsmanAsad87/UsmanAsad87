@@ -45,7 +45,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanasad87&layout=compact) --->
 
 ### My Stats:
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=usmanasasd87&theme=dark" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=denvercoder1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 <p align="center">
 <br/>
 <img height="180em"src="https://github-readme-stats.vercel.app/api?username=usmanasad87&show_icons=true&theme=github_dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&&count_private=true&include_all_commits=true&rank_icon=github" />
