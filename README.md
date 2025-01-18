@@ -47,7 +47,7 @@
 ### My Stats:
 <p align="center">
 	<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=comus3&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=usmanasad87&theme=dark&hide_border=false" alt="GitHub Streak" />
 </a>
 <br/>
 <img height="180em"src="https://github-readme-stats.vercel.app/api?username=usmanasad87&show_icons=true&theme=github_dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&&count_private=true&include_all_commits=true&rank_icon=github" />
