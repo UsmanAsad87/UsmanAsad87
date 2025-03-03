@@ -15,7 +15,7 @@
 
 - 💬 Feel free to reach out if you want to discuss **MERN Stack, Next.js, Vue.js, .NET Web API, WPF, Flutter, NLP, Computer Vision,** or **Machine Learning**.
 
-- 📧 How to reach me: **usmanasad0324@gmail.com**
+- 📧 How to reach : **usmanasad0324@gmail.com**
 
 ---
 
